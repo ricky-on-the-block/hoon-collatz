@@ -4,6 +4,9 @@
 ::   - If n is odd, multiply it by 3 and add 1 (n = 3n + 1)
 ::   - Continue until n is 1
 
+:: Hint for Jet (C Code)
+~/  %collatz
+
 :: Define a gate (function) that takes an unsigned integer as input
 |=  n=@ud
 
